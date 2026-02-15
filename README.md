@@ -3,9 +3,9 @@
 ## Data Scientist | ML Enthusiast | AI Data Contributor
 I'm a Data Scientist who thrives on analyzing huge datasets, uncovering hidden patterns, building predictive models and driving decisions with data at scale. Passionate about Machine Learning and AI.
 
-- 🗺️I'm from Nigeria
-- 📧You can contact me at macdonkcee@gmail.com
-- 🤝Let's collaborate
+- 🌍 I'm from Nigeria
+- 📧 You can contact me at macdonkcee@gmail.com
+- 🤝 Let's collaborate
 
 ## Skills
 <p align="center">
