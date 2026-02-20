@@ -1,6 +1,6 @@
 # Hi, I'm Kosisochukwu Ukwandu
 
-## Data Scientist | ML Enthusiast | AI Data Contributor
+## Data Scientist & Analyst | Machine Learning | AI Data Contributor
 I'm a Data Scientist who thrives on analyzing huge datasets, uncovering hidden patterns, building predictive models and driving decisions with data at scale. Passionate about Machine Learning and AI.
 
 - 🌍 I'm from Nigeria
